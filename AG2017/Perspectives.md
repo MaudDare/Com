@@ -37,6 +37,7 @@ Note: plus de formations ?
 * Forum des associations
 * Adonnantes en Mai
 * Libre en Fête 2018 Le 25 Mars
+* OpenSpace Makers
 * Portes ouvertes ?
 
 
