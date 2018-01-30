@@ -5,51 +5,59 @@
 
 
 ## Etat des fonds
-(au 18 janvier 2017)
+(au 30 janvier 2018)
 
-* Compte chèque: 2 840.87 €
-* Livret Bleu: 3 906.90 €
-* Paypal: 6.69 €
-* Liquidités: 72.47€
-* Chèques à encaisser: 145.00 €
-* 4 Factures 2016 en cours de recouvrement: 2 688.10 €
-Total: **9660.03€** (3 730.97 € en 2015 - +5 930€)
+* Compte chèque: 10 718.16 €
+* Livret Bleu: 3 516.26 €
+* Paypal: ???? €
+* Liquidités: ???? €
+* Chèques à encaisser: ???? €
+* Quelques Factures 2017 en cours de recouvrement: 291.10 €
+Total: **????€** (9660.03€ en 2016,  3 730.97 € en 2015 - +5 930€)
 
+# 2017: grosse année côté investissement...
+
+* Prêt CMB: 25 000€ (hors frais et intérêt)
+* Subventions Région (attendues 19 Février): 18 308€
+* Subvention LTC: 4 000€ (relance Janvier)
+* Subventions Département: ???
+* Remboursement à prévoir à la réception des fonds Région
 
 # Revenus principaux 1/2
-(Hors 'Libre En Fete')
 
-* Impressions 3D: 140 €
-* Découpe Laser: 1 055 €
-* PC Reconditionnés: 1 515 €
-* Vente de matériel reconditionné: 100 €
-* Support aux professionels: 300 €
+* Impressions 3D: ???? €
+* Découpe Laser: ???? €
+* Trenders: 1 800 €
+* PC Reconditionnés: ???? €
+* Vente de matériel reconditionné: ??? €
+* Support aux professionels: ??? €
+* régularisation Libre En Fête 2016: 2 300€
 
 
 # Revenus principaux 2/2
-(Hors 'Libre En Fete')
 
 * Cotisations:
-* Particuliers: 1 380 €
-* Entreprises: 1 200 €
-* Sociales: 200 €
-* Spéciales: 170 €
-* Divers: 1 800 €
+* Particuliers (49): 1 470€ (+90)
+* Entreprises (Orange, Enedis, Armor Info): 1 150€ (-50€)
+* Sociales (10): 100€ (-100)
+* Divers: ???? €
 
-**Total: env. 7 800€**
+**Total: env. ??? **
 
 
 # Dépenses principales
-(Hors 'Libre En Fete')
 
-* Matière première: 500 €
-* Matériel d'atelier: 500 €
-* Fourniture de bureau: 500 €
+* Formlabs: 6 715.44 €
+* Thermoformeuse: 4 567.20 €
+* Scanner 3D: 3 499€
+* Petite découpeuse Laser: 2 838€
+* Découpeuse Vinlye: 2 092.56€
+* Antennes LoRa: 1 271 €
+* Fourniture de bureau: ??? €
 * Assurance: 200 €
-* Frais banquaire: 100 €
-* Vol: 130 €
+* Frais banquaire (hors intérêt prêt):  101.37€
 
-** Total: env. 1 930€ **
+** Total: env. ???? € **
 
 
 # Remarques ou questions ?
