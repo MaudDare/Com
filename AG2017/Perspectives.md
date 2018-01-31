@@ -4,12 +4,12 @@
 ## Plus de créneaux !
 * Service Civique Petits Débrouillards + Mécénat de Compétences Mission Locale ?
 * Formation Fab Managers (Cycle en cours)
-* Meilleure gestion/communication des formations (inscription a l'avance)
+* Meilleure gestion/communication des formations (inscription à l'avance)
 Note: plus de formations ?
 
 
 ## Fablab 2018
-* Maison des entreprises : Le projet suit sont cours...
+* Maison des entreprises : Le projet suit son cours...
 * Diversification des sources de financement
 * Subvention Région/LTC/CG22 : Attente des versements
 * **Libre en Fête 2018**
@@ -26,8 +26,8 @@ Note: plus de formations ?
 ## Projets
 * LoRa
 * intégration dans [The Things Network](https://www.thethingsnetwork.org/)
-* [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz), Trender, SMS over LoRa, ...
-* [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux)
+* [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz), [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux), SMS over LoRa, ...
+* Trender
 * Fond de [documentation](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Formation)
 * les **VÔTRES** !
 

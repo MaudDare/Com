@@ -25,7 +25,7 @@ Note: passage de AABB à AAAB
 * Services civiques 😊
 * Formation Fab Managers 😊
 * Un (semi)Permanent 😞
-* Meilleure gestion/communication des formations (inscription a l'avance) 😐
+* Meilleure gestion/communication des formations (inscription à l'avance) 😐
 Note:
 services civiques 6 mois
 créneau du vendredi aprem et samedi
@@ -69,6 +69,7 @@ http://wiki.fablab-lannion.org//index.php?title=CA20Septembre2017
 * Fabrication découpeuse [plasma](http://wiki.fablab-lannion.org//index.php?title=Plasma)
 * [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz) et [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux)
 * Projets Laser
+* LoRa <img align="right" src="img/ttnmapper.png">
 * ...
 
 

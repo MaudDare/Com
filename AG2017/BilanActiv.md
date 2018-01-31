@@ -25,6 +25,7 @@
 
 ## Septembre - Octobre
 * 09/09 : Forum des associations
+* 20/09 : CA investissements
 * Lancement Libre en Fête 2018 !
 * 07/10 : Fête de la science
 * Appel à projet Orange Solidaires
