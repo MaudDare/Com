@@ -81,7 +81,7 @@ http://wiki.fablab-lannion.org//index.php?title=CA20Septembre2017
 ## Quelques chiffres
 * ~70 Adhérents, avec renouvellement
 * 273 Personnes enregistrées sur le forum / 4400+ messages
-* XX Heures de découpeuse Laser facturées
+* ~80 Heures de découpeuse Laser facturées
 Note: perte de base en cours d'année, pas sur du nombre réèl d'adhérents :(
 
 
