@@ -9,10 +9,20 @@
 
 * Compte chèque: 10 354.15  €
 * Livret Bleu: 3 516.26 €
+<<<<<<< HEAD
 * Paypal: 0 €
 * Liquidités: 140 €
 * Quelques Factures 2017 en cours de recouvrement: 200 €
 Total: env 14 261€ (9660.03€ en 2016,  3 730.97 € en 2015)
+=======
+* Paypal: ???? €
+* Liquidités: ???? €
+* Chèques à encaisser: ???? €
+* Quelques Factures 2017 en cours de recouvrement: 291.10 €
+
+**Total: ????€** (9660.03€ en 2016,  3 730.97 € en 2015 - +5 930€)
+
+>>>>>>> ee29006ebfc3b20e687fd099b0fcc3a47b2e5bb8
 
 # 2017: grosse année côté investissement...
 
@@ -24,7 +34,10 @@ Poursuite du plan d'investissement et écoulement des reliquats
 * Subventions Département: 4 698 € (pas d'échéance !!!)
 * Remboursement à prévoir à la réception des fonds Région
 
+<<<<<<< HEAD
 Soit 2000€ à notre charge hors intérêt
+=======
+>>>>>>> ee29006ebfc3b20e687fd099b0fcc3a47b2e5bb8
 
 # Revenus principaux 1/2
 
@@ -40,6 +53,7 @@ Soit 2000€ à notre charge hors intérêt
 # Revenus principaux 2/2
 
 * Cotisations:
+<<<<<<< HEAD
  * Particuliers (52): 1 560€ [+15%]
  * Entreprises (Orange, Enedis, Armor Info): 1 150€ [-5%]
  * Sociales (10): 100€ [-100%]
@@ -93,5 +107,29 @@ Dont investissement propre d'environ 4 000€
 * Année "témoin" en fonctionnement normal
 * Revenus et dépenses en adéquation avec le **mode associatif** (sans charge)
 * Bilan à faire en cours d'année pour la "maison des Entreprises"
+=======
+* Particuliers (49): 1 470€ (+90)
+* Entreprises (Orange, Enedis, Armor Info): 1 150€ (-50€)
+* Sociales (10): 100€ (-100)
+* Divers: ???? €
+
+**Total: env. ??? **
+
+
+# Dépenses principales
+
+* Formlabs: 6 715.44 €
+* Thermoformeuse: 4 567.20 €
+* Scanner 3D: 3 499€
+* Petite découpeuse Laser: 2 838€
+* Découpeuse Vinlye: 2 092.56€
+* Antennes LoRa: 1 271 €
+* Fourniture de bureau: ??? €
+* Assurance: 200 €
+* Frais banquaire (hors intérêt prêt):  101.37€
+
+**Total: env. ???? €**
+
+>>>>>>> ee29006ebfc3b20e687fd099b0fcc3a47b2e5bb8
 
 # Remarques ou questions ?

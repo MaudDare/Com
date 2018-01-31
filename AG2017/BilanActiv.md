@@ -2,7 +2,7 @@
 
 
 ## Janvier - Février
-* 31/01 : [AG 2017](http://wiki.fablab-lannion.org/index.php?title=Compte_Rendu_AG_2017)
+* 18/01 : [AG 2016](http://wiki.fablab-lannion.org/index.php?title=Compte_Rendu_AG_2016)
 * Cycle de formation de Fabmanagers
 
 
