@@ -33,7 +33,7 @@ Poursuite du plan d'investissement et écoulement des reliquats
 * Impressions 3D: 150 € [+ 5%]
 * Trenders: 1 800 € [+∞]
 * PC Reconditionnés: 760 € [-100%]
-* Vente de matériel reconditionné: 415€ [+400%] €
+* Vente de matériel reconditionné: 415€ [+400%]
 * Support aux professionnels: 200 €
 * régularisation Libre En Fête 2016: 2 300€
 
