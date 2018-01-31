@@ -5,7 +5,7 @@
 
 
 ## Etat des fonds
-(au 30 janvier 2018)
+(au 31 décembre 2017)
 
 * Compte chèque: 10 354.15  €
 * Livret Bleu: 3 516.26 €
@@ -97,6 +97,7 @@ Dont investissement propre d'environ 4 000€
 * Année "témoin" en fonctionnement normal
 * Revenus et dépenses en adéquation avec le **mode associatif** (sans charge)
 * Bilan à faire en cours d'année pour la "maison des Entreprises"
+* Recherche "Trésoriers" pour 2019 :D
 
 
 ## Remarques ou questions ?
