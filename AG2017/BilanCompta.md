@@ -13,6 +13,7 @@
 * Liquidités: ???? €
 * Chèques à encaisser: ???? €
 * Quelques Factures 2017 en cours de recouvrement: 291.10 €
+
 **Total: ????€** (9660.03€ en 2016,  3 730.97 € en 2015 - +5 930€)
 
 
@@ -43,6 +44,7 @@
 * Entreprises (Orange, Enedis, Armor Info): 1 150€ (-50€)
 * Sociales (10): 100€ (-100)
 * Divers: ???? €
+
 **Total: env. ??? **
 
 
@@ -57,6 +59,7 @@
 * Fourniture de bureau: ??? €
 * Assurance: 200 €
 * Frais banquaire (hors intérêt prêt):  101.37€
+
 **Total: env. ???? €**
 
 
