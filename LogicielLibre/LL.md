@@ -1,17 +1,3 @@
-# Le commencement
-
-
-## Années 70
-* tout le monde a les sources
-Note: passage de AABB à AAAB
-😂 😊 😐 😞
-
-
-## Années 80
-* RMS
-
-
-
 # les libertés
 
 
@@ -37,16 +23,42 @@ dupliquer et diffuser le savoir
 
 
 
+# Une brêve histoire
+
+
+## Richard Stallman
+![RMS](img/Richard_Stallman_-_Fête_de_l'Humanité_2014_-_008.jpg)
+Note:
+Thesupermat CC:BY-SA https://commons.wikimedia.org/wiki/File:Richard_Stallman_-_F%C3%AAte_de_l'Humanit%C3%A9_2014_-_008.jpg
+
+
+## Linus Torvald
+![Linus](img/431px-LinuxCon_Europe_Linus_Torvalds_03.jpg)
+Note:
+Krd/Von Sprat CC:BY-SA https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg
+
+
+## Mais aussi
+Pamela Jones, Mark Shuttleworth, Bob Young, Jimmy Wales, Lawrence Lessig, Sir Tim Berners-Lee, Blake Ross, Keith Packard, Theo de Raadt, Steve Coast, ...
+
+Et VOUS ?
+Note: Jones(Groklaw), Shuttleworth(canonical), Young(Redhat), Wales(Wikipedia), Lessig(CC), Berners-Lee(http), Ross(firefox), Packard(XOrg), Raadt(OpenBSD), Coast(OSM)
+
+
+
 # Les licences
 
 
-## GPL
+## Devoir de réciprocité
+GPL, CC:by-sa, AGPL, CeCILL, ...
+
+![GPL](img/GPLv3_Logo.png)
 
 
-## BSD
+## Permissive
+BSD, MIT, CC:by, Public domain, CeCILL-B, ...
 
-
-## CC
+![by](img/cc:by.png)
 
 
 
@@ -57,5 +69,14 @@ dupliquer et diffuser le savoir
 
 
 ## sur les épaules des géants
+
+
+## OpenSource vs Logiciel Libre
+
+
+
+# Merci
+
+[CC:By-Sa](https://creativecommons.org/licenses/by-sa/2.0/fr/)
 
 
