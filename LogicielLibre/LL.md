@@ -41,8 +41,8 @@ Krd/Von Sprat CC:BY-SA https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_L
 ## Mais aussi
 Pamela Jones, Mark Shuttleworth, Bob Young, Jimmy Wales, Lawrence Lessig, Sir Tim Berners-Lee, Blake Ross, Keith Packard, Theo de Raadt, Steve Coast, ...
 
-Et VOUS ?
-Note: Jones(Groklaw), Shuttleworth(canonical), Young(Redhat), Wales(Wikipedia), Lessig(CC), Berners-Lee(http), Ross(firefox), Packard(XOrg), Raadt(OpenBSD), Coast(OSM)
+et **VOUS** ?
+Note: Jones(Groklaw), Shuttleworth(canonical), Young(Redhat), Wales(Wikipedia), Lessig(CC), Berners-Lee(http), Ross(firefox), Packard(XOrg), Raadt(OpenBSD), Coast(OSM, Aptonyme :))
 
 
 
@@ -65,7 +65,11 @@ BSD, MIT, CC:by, Public domain, CeCILL-B, ...
 # Perspectives
 
 
-## LL partout
+## LL est partout
+basé ou contenant du logiciel libre :
+* 80% des navigateurs web
+* 85% des smartphones
+* 90% des serveurs d'internet
 
 
 ## sur les épaules des géants
@@ -78,5 +82,4 @@ BSD, MIT, CC:by, Public domain, CeCILL-B, ...
 # Merci
 
 [CC:By-Sa](https://creativecommons.org/licenses/by-sa/2.0/fr/)
-
 
