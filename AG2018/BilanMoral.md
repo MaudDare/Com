@@ -20,42 +20,32 @@ Note: passage de AAAB à AAAA
  * Libre en Fête
 
 
-## Objectifs 2017 1/3
+## Objectifs 2018 1/3
 ### Plus de créneaux !
 * Formation Fab Managers 😊
-* Un (semi)Permanent 😞
+* Un (semi)Permanent 😊
 * Meilleure gestion/communication des formations (inscription à l'avance) 😐
 Note:
 créneau du vendredi aprem 
-formation fabmanager janvier/février
 
-
-## Objectifs 2017 2/3
+## Objectifs 2018 2/3
 ### Fablab 2018
 * Maison des entreprises (ou autre) 😐
 * Diversification des sources de financement
- * Subvention région ... 😊
- * Ventes (Bornes, **Trender**, Puzzles ...) 😂
+ * Subvention région/CG22/LTC finalisé! ... 😊
+ * Ventes (Bornes, Trender, **OORobot** ...) 😂
  * Reconditionnement PC (Quid objèterie ?)
  * Rescrit fiscal ? 😞
 * Plus d'ouverture vers les entreprises 😐
 Note: AG maison des Et
 
 
-## Objectifs 2017 3/3
+## Objectifs 2018 3/3
 ### Machines
-* Découpeuse plasma 😊
-* Découpeuse vinyl 😊
-* Brodeuse numérique 😞
-* Petite decoupeuse laser 😊
-* Imprimante 3D haute qualité 😊
-* Machines métal ? (plieuse, scie) 😊
-Note: Brodeuse annulée en CA 20/9/17
-http://wiki.fablab-lannion.org//index.php?title=CA20Septembre2017
+* Pas de nouvelle machine en 2018
 
 
 ## Association
-* Beaucoup de nouvelles machines
 * Création de [contenus pédagogique](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Formation)
 * Fin du 1er plan d'équipment
 * Ouverture toute l'année à 18h le Mercredi et 12h30-17h le Vendredi
@@ -71,7 +61,7 @@ http://wiki.fablab-lannion.org//index.php?title=CA20Septembre2017
 
 ## OoRobot
 * Gros succès de l'année.
-[![Trender](img/Trender2017.png)](img/Trender2017.png)
+[![OOrobot](https://wiki.fablab-lannion.org/images/thumb/6/63/Oorobot-logo.png/400px-Oorobot-logo.png)](https://wiki.fablab-lannion.org/images/thumb/6/63/Oorobot-logo.png/400px-Oorobot-logo.png)
 
 
 ## Quelques chiffres
