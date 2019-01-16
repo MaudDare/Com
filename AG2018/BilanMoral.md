@@ -65,9 +65,10 @@ Note: AG maison des Et
 
 
 ## Quelques chiffres
-* ~70 Adhérents, avec renouvellement
-* 273 Personnes enregistrées sur le forum / 4400+ messages
-* ~80 Heures de découpeuse Laser facturées
+* ~XX Adhérents, avec renouvellement
+* 313 Personnes enregistrées sur le forum / 4700
++ messages
+* ~XX Heures de découpeuse Laser facturées
 Note: perte de base en cours d'année, pas sur du nombre réèl d'adhérents :(
 
 
