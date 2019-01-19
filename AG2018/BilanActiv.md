@@ -8,7 +8,7 @@
 
 ## Mars - Avril
 * Début de la première session de formation "Mission Locale"
-* 25/03 : [Libre en fête](http://libre-en-fete-tregor.fr/)
+* 25/03 : **[Libre en fête](http://libre-en-fete-tregor.fr/)**
 * 28/03 : Présentation du lieu et des activités aux élus de la [Ville de Lannion](https://www.lannion.bzh/)
 * 30/03 : Rencontre des ateliers de fabrication numériques locaux au [Fablab Lannion](https://wiki.fablab-lannion.org)
 * 03/04 : Visite dédié iXblue
@@ -17,7 +17,7 @@
 
 ## Mai - Juin
 * 17/05 : Présentation de TheThingsNetwork au Meetup IOT d'Anticipa
-* 23/05 : Formation affutage
+* 23/05 : Formation affûtage
 
 ## Juillet - Aout
 * 04/07 : Barbecue du Fablab et présentation du projet [Fabolo3D](https://wiki.fablab-lannion.org/index.php?title=Fabolo3D)
@@ -28,7 +28,7 @@
 ## Septembre - Octobre
 * 09/09 : Forum des associations
 * 12/09 : Conférence de presse OoRoBot
-* 25/09 : Reception de 3 nouvelles passerelles LoRix (5 installés par le Fablab en 2018)
+* 25/09 : Réception de 3 nouvelles passerelles LoRix (5 installés par le Fablab en 2018)
 * 06-08/10 : Fête de la science, y compris journée des scolaires
 * Début de la deuxième session de formation "Mission Locale"
 
@@ -40,5 +40,6 @@
 * 15/12 : 100ème OoRobot !!!
 * 18/12 : accueil classe de ideographik.org
 * Fabrication Trophée Cinestival Le Dantec
+
 
 # Remarques ou questions ?
