@@ -1,6 +1,7 @@
-Etat des comptes au 05.01.2019
-------------------------------
+# Bilan financier
 
+
+## Etat des comptes au 05.01.2019
 - Crédit Mutuel de Bretagne: 15 363,71€
   - Compte Chèque: 3 128,21 €
   - Livret CMB:  12 235,50 €
@@ -11,31 +12,22 @@ Etat des comptes au 05.01.2019
 
 **TOTAL: 15 500,69 €**
 
-+++
 
-Evolution des fonds sur 4 ans:
------------------------------
+## Evolution des fonds sur 4 ans:
+- 2015: 3 730.97 €
+- 2016: 9 660.03 €  (+158.91 %)
+- 2017: 14 261.00 € (+47.62 %)
+- **2018: 15 500,69 € (+08.69 %)**
 
-2015: 3 730.97 €
-2016: 9 660.03 €  (+158.91 %)
-2017: 14 261.00 € (+47.62 %)
-**2018: 15 500,69 € (+08.69 %)**
 
-+++
-
-Quelques éléments clefs de la trésorerie 2018
----------------------------------------------
-
+## Quelques éléments clefs de la trésorerie 2018
 - Libre en Fête 2018
 - Investissements suite à subventions
 - OORobots
 - Découpes lasers
 
-+++
 
-Libre en Fête 2018
-------------------
-
+## Libre en Fête 2018
 Événement à l'équilibre d'un chiffre d'affaire de: **9 480€**
 
 **sans bénéfice financier** pour aucun partenaire, mais pour le fablab:
@@ -43,11 +35,8 @@ Libre en Fête 2018
 - achat de 3 antennes LoRa: 1 226€
 - 1 trender: 150 €
 
-+++
 
-Dossier Investissements (1/2)
------------------------------------
-
+## Dossier Investissements (1/2)
 Fin du déblocage du looooong dossier d'investissements lancé en 2015.
 
 Montant déblocable:
@@ -59,11 +48,8 @@ Montant déblocable:
 
 **Total:	€59 781.73**
 
-+++
 
-Dossier Investissements (2/2)
------------------------------------------
-
+## Dossier Investissements (2/2)
 **Total débloqué: 53 747.22 (89.9 %)**
 
 Rappel des investissements effectués en 2017:
@@ -76,17 +62,14 @@ Rappel des investissements effectués en 2017:
 - Plotter: 2 100 €
 
 
-OORobots
-----------
-
+## OORobots
 - **57** ventes !
 - **91** OOrobots
 - **3 640 €** de vente
 - entre 700 et 900 € de bénéfice
 
-Autre
----------------
 
+## Autre
 - Découpe Laser: **2 400 € (+50 %)**
 - Fondation Orange: 3 000 €
 - Banque: **-463 €**
@@ -95,9 +78,7 @@ Autre
   - CB: 42.20 €
 
 
-Bilan
------
-
+## Bilan
 - Année témoin:
   - **Bilan positif (+8%)**
   - Mode associatif: Peu de gros mouvements, beaucoup de petits achats
@@ -105,11 +86,10 @@ Bilan
   - Très bonne performance d'OORobot !
   - Les découpeuses laser sont clairement de très bon investissements !
 
-Ressenti et perspectives
----------------------
 
+## Ressenti et perspectives
 - Finalisation du looooong dossier d'investissement douloureux => Merci au CMB, mais pourquoi c'est si compliqué avec tant de frais ???
 - Outil ODOO troooop compliqué lorsqu'il y a beaucoup de mouvements => Proposition de changement d'outil pour 2019.
 
-Remarques ou questions ?
------------------------
+
+# Remarques ou questions ?
