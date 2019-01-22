@@ -80,8 +80,8 @@ Rappel des investissements effectués en 2017:
 
 ## Bilan
 - Année témoin:
-  - **Bilan positif (+8%)**
   - Mode associatif: Peu de gros mouvements, beaucoup de petits achats
+  - **Bilan positif (+8%)**
 - Les bons plans:
   - Très bonne performance d'OORobot !
   - Les découpeuses laser sont clairement de très bon investissements !
