@@ -31,17 +31,15 @@ Note:
 ## Événements
 * Fête de la science
 * Forum des associations
-* Adonnantes en Mai
+* Adonnantes ?
 * Portes ouvertes ?
 * Libre en Fête 2020
 
 
-## Compagnons numériques
-* Mission locale / Fablab / Fondation orange
-* Redonner confiance par le **faire**
-* Mécénat de compétences / 3 ans
-
-![fondation](img/FondationOrange.jpg)
+## Communauté
+* Compagnons numériques (encore 2 ans)
+* Renouer avec les petits débrouillards
+* Continuer avec le Lycée
 
 
 # Remarques ou questions ?

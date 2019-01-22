@@ -9,6 +9,7 @@
 * Ré-appropriation technique 😊
  * diffusion de matériel
 Note: manque d’interaction avec les autres fablabs
+Quand même efforts pour fablabs territoire
  😂 😊 😐 😞
 
 
@@ -88,7 +89,7 @@ Note: bornes: location+vente
 
 ## Quelques chiffres
 * ~XX Adhérents, avec renouvellement
-* 313 Personnes enregistrées sur le forum / 4700 messages
+* 318 Personnes enregistrées sur le forum / 4710 messages
 * ~XX Heures de découpeuse Laser facturées
 Note: perte de base en cours d'année, pas sur du nombre réel d'adhérents :(
 
