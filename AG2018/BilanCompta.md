@@ -22,7 +22,7 @@
 
 ## Quelques éléments clefs de la trésorerie 2018
 - Libre en Fête 2018
-- Investissements suite à subventions
+- Fin du dossier de subventions d'investissements
 - OORobots
 - Découpes lasers
 
@@ -32,7 +32,7 @@
 
 **sans bénéfice financier** pour aucun partenaire, mais pour le fablab:
 - utilisation de la découpeuse laser facturée: 280 €
-- achat de 3 antennes LoRa: 1 226€
+- achat de 2 antennes LoRa: 1 226€
 - 1 trender: 150 €
 
 
