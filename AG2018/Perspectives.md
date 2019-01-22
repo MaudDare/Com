@@ -4,9 +4,9 @@
 ## Association
 * Renouvellement Fab managers
 * Plus de formations (avec captation vidéo)
- * LoRa bout-en-bout
- * KiCad
- * ... ?
+  * LoRa bout-en-bout
+  * KiCad
+  * ... ?
 * Dynamiser les outils en ligne
 Note:
 
@@ -19,11 +19,11 @@ Note:
 
 
 ## Projets
-* Spacial
- * Clinostat
- * Rover
+* Spatial
+  * Clinostat
+  * Rover
 * LoRa
-* [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz), [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux), SMS over LoRa, ...
+* [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz), [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux), ...
 * Fond de [documentation](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Formation)
 * les **VÔTRES** !
 
