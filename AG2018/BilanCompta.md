@@ -66,7 +66,7 @@ Rappel des investissements effectués en 2017:
 - **58** ventes !
 - **94** OOrobots
 - **3 760 €** de vente
-- entre 750 et 950 € de bénéfice
+- environ **1 150 €** de bénéfice pour la version MDF
 
 
 ## Autre
