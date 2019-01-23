@@ -8,7 +8,7 @@
   * KiCad
   * ... ?
 * Dynamiser les outils en ligne
-Note:
+Note: logiciel de caisse / gestion adhésions
 
 
 ## Machines 1/2
