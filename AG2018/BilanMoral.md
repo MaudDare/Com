@@ -55,7 +55,8 @@ Note: bornes: location+vente
 ### Compagnons numériques
 * ~ 2 sessions déroulées
 * 4+4 jeunes formés
-* reprise d'études pour tous !
+* reprise d'études pour la moitié !
+* prochaine session en février
 
 😂
 
