@@ -90,6 +90,7 @@ Rappel des investissements effectués en 2017:
 ## Ressenti et perspectives
 - Finalisation du looooong dossier d'investissement douloureux => Merci au CMB, mais pourquoi c'est si compliqué avec tant de frais ???
 - Outil ODOO troooop compliqué lorsqu'il y a beaucoup de mouvements => Proposition de changement d'outil pour 2019.
+- Terminal CB ?
 
 
 # Remarques ou questions ?
