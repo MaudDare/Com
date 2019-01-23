@@ -12,7 +12,7 @@
 * 28/03 : Présentation du lieu et des activités aux élus de la [Ville de Lannion](https://www.lannion.bzh/)
 * 30/03 : Rencontre des ateliers de fabrication numériques locaux au [Fablab Lannion](https://wiki.fablab-lannion.org)
 * 03/04 : Visite dédié iXblue
-* 06/04 : Première ouverture le Vendredi. Nouveau créneau 12h30-17h00
+* 06/04 : Première ouverture le Vendredi. Nouveau créneau 12h30-18h00
 
 
 ## Mai - Juin
