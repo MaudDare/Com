@@ -89,10 +89,10 @@ Note: bornes: location+vente
 
 
 ## Quelques chiffres
-* ~XX Adhérents, avec renouvellement
+* ~100 Adhérents, avec renouvellement
 * 318 Personnes enregistrées sur le forum / 4710 messages
-* ~XX Heures de découpeuse Laser facturées
-Note: perte de base en cours d'année, pas sur du nombre réel d'adhérents :(
+* 120 Heures de découpeuse Laser facturées
+Note: pas sur du nombre réel d'adhérents :(
 
 
 # Remarques ou questions ?
