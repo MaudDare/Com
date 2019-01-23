@@ -63,10 +63,10 @@ Rappel des investissements effectués en 2017:
 
 
 ## OORobots
-- **57** ventes !
-- **91** OOrobots
-- **3 640 €** de vente
-- entre 700 et 900 € de bénéfice
+- **58** ventes !
+- **94** OOrobots
+- **3 760 €** de vente
+- entre 750 et 950 € de bénéfice
 
 
 ## Autre
