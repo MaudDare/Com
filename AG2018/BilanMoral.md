@@ -69,7 +69,7 @@ Note: bornes: location+vente
  * Étalement de la communauté 😐
  * Diversification des profils et usages du lieu 😊
 * Augmentation des interactions avec le territoire 😊
- * Lycée, AAPO, [OSM](https://www.federation-openspacemakers.com/fr/), [ORPB](http://www.orpb.fr/), [ArmorScience](http://www.armorscience.com/), [CPN22](https://twitter.com/CPN22), Météo Bretagne
+ * Lycée, AAPO, [OSM](https://www.federation-openspacemakers.com/fr/), [ORPB](http://www.orpb.fr/), [ArmorScience](http://www.armorscience.com/), [CPN22](https://twitter.com/CPN22), Météo Bretagne, ...
 
 
 ## Projets / Machines
