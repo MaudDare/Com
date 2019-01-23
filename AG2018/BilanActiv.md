@@ -39,7 +39,7 @@
 * 12/12 : Soirée OpenSpaceMaker
 * 15/12 : 100ème OoRobot !!!
 * 18/12 : accueil classe de ideographik.org
-* Fabrication Trophée Cinestival Le Dantec
+* Fabrication Trophée & Tampons Cinestival (collaboration avec Le Dantec)
 
 
 # Remarques ou questions ?

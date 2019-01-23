@@ -11,11 +11,20 @@
 Note:
 
 
-## Machines
+## Machines 1/2
+* Utilisation des machines par le plus grand nombre !
+ * Form2
+ * Imprimante A2
+ * Thermoformeuse
+ * CNCs
+ * Plasma !
+Note:
+
+
+## Machines 2/2
 * Atelier tissus ?
 * Documentation / Formation
 * Exemples
-* Utilisation des machines par le plus grand nombre !
 
 
 ## Projets

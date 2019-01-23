@@ -65,7 +65,7 @@ Note: bornes: location+vente
 * Création de [contenus pédagogique](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Formation)
 * Fin du 1er plan quinquennal d’équipement 😊
  * Locaux "pleins" 😐
-* Ouverture toute l'année à 18h le Mercredi et 12h30-17h le Vendredi
+* Ouverture toute l'année à 18h le Mercredi et 12h30-17h30 le Vendredi
  * Étalement de la communauté 😐
  * Diversification des profils et usages du lieu 😊
 * Augmentation des interactions avec le territoire 😊
