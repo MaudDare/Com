@@ -2,53 +2,29 @@
 
 
 ## Association
-* Renouvellement Fab managers
-* Plus de formations (avec captation vidéo)
-  * LoRa bout-en-bout
-  * KiCad
-  * ... ?
-* Dynamiser les outils en ligne
+* Nouveaux locaux !
 Note: logiciel de caisse / gestion adhésions
 
 
-## Machines 1/2
-* Utilisation des machines par le plus grand nombre !
- * Form2
- * Imprimante A2
- * Thermoformeuse
- * CNCs
- * Plasma !
+## Machines
+* Atelier tissus
 Note:
 
 
-## Machines 2/2
-* Atelier tissus ?
-* Documentation / Formation
-* Exemples
-
-
 ## Projets
-* Spatial
-  * Clinostat
-  * Rover
-* LoRa
-* [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz), [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux), ...
-* Fond de [documentation](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Formation)
 * les **VÔTRES** !
 
 
 ## Événements
+* Libre en Fête 2020
 * Fête de la science
 * Forum des associations
-* Adonnantes ?
 * Portes ouvertes ?
-* Libre en Fête 2020
 
 
 ## Communauté
-* Compagnons numériques (encore 2 ans)
-* Renouer avec les petits débrouillards
-* Continuer avec le Lycée
+* Compagnons numériques (encore 1 an)
+* ne pas continuer avec le Lycée
 
 
 # Remarques ou questions ?
