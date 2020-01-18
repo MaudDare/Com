@@ -81,15 +81,16 @@ Note: rien
 * reprise d'études pour la moitié !
 * session en cours
 
-😂
-
 
 ## Quelques chiffres
-* 105 Adhérents, en augmentation
+* 105 Adhérents, en augmentation 😂
+ * 2 associations / 5 entreprises
+ * 83 hommes / 15 femmes
 * 344 Personnes enregistrées sur le forum / 4917 messages
 * xxx Heures de découpeuse Laser facturées
 Note: sur du nombre d'adhérents :)
-120h en 2018
+14.3% de femmes ! merci le vendredi et CPN22
+120h laser en 2018
 
 
 # Remarques ou questions ?
