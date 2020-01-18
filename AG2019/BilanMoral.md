@@ -60,6 +60,7 @@ Note: rien
  * Étalement de la communauté 😐
  * Diversification des profils et usages du lieu 😊
 * Augmentation des interactions avec le territoire 😊
+* Logiciel de caisse / cartes bancaires 😊
 
 
 ## Projets / Machines
@@ -83,7 +84,7 @@ Note: rien
 
 
 ## Quelques chiffres
-* 105 Adhérents, en augmentation 😂
+* 105 Adhérents, en augmentation et renouvellement 😂
  * 2 associations / 5 entreprises
  * 83 hommes / 15 femmes
 * 344 Personnes enregistrées sur le forum / 4917 messages
