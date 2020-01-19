@@ -53,6 +53,7 @@ Note: rien
 * Adonnantes ? 😞
 * Portes ouvertes ? 😞
 * Libre en Fête 2020 😊
+Note: adonnantes, pas de relation Lycée/anticipa/enssat/iut
 
 
 ## Association
@@ -61,6 +62,7 @@ Note: rien
  * Étalement de la communauté 😐
  * Élargissement et diversification des profils et usages du lieu 😂
 * Augmentation des interactions avec le territoire 😊
+* Augmentation des interactions avec le Lycée 😊
 * Logiciel de caisse / cartes bancaires 😊
 
 
@@ -72,7 +74,7 @@ Note: rien
 
 ## OoRobot
 * Toujours gros succès.
-* 100 kits fabriqués
+* ~75 kits fabriqués
 
 [![OOrobot](https://wiki.fablab-lannion.org/images/thumb/6/63/Oorobot-logo.png/400px-Oorobot-logo.png)](https://wiki.fablab-lannion.org/images/thumb/6/63/Oorobot-logo.png/400px-Oorobot-logo.png)
 

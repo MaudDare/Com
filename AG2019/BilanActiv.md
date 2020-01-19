@@ -40,8 +40,10 @@
 * 26 : participation de Thierry à la journée des salariés Orange en mécénat de compétences, présentation du cycle de formation
 * 29 : [atelier des lutins](http://www.fablab-lannion.org/2019/11/les-lutins-reviennent-au-fablab-en-2019.html) du père Noël
 
+* 11 : Réunion Lycée / CMQ
 * 12 : présentation au conseil départemental de nos propositions de projet (libre en fête et brodeuse numérique). Obtention d'une subvention pour libre en fête 2020
 * 12 : Journée des drones : représentation du Fablab par Bernard
+* 19 : Réunion Lycée / CMQ / LTC
 
 
 ## Enfin ...
