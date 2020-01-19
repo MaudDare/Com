@@ -18,6 +18,7 @@ Quand même efforts pour fablabs & acteurs territoire
  * récupération en déchetterie / entreprises / organismes
 * Promotion du logiciel et matériel Libre 😊
  * utilisation quasi-exclusive de logiciels libres
+ * documentation ouverte des projets
 Note: 3R merci Tom, Thierry & jeunes ML
 
 

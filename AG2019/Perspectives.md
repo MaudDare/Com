@@ -22,7 +22,7 @@ Note:
 
 
 ## Événements
-* Libre en Fête 2020
+* [Libre en Fête 2020](http://libre-en-fete-tregor.fr/) ➔ 29 mars
 * Fête de la science
 * Forum des associations
 * Portes ouvertes ?
@@ -31,6 +31,7 @@ Note:
 ## Communauté
 * Compagnons numériques (encore 1 an)
 * Formations
+* Projet Maison de l'emploi ?
 
 
 # Remarques ou questions ?

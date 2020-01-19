@@ -31,14 +31,17 @@
 * 20 : Première réunion organisation libre en fête 2020
 * 24 : début 4ème session de formation avec la mission locale
 
+* 3 : Journée Hydrogène à Guingamp : représentation du Fablab par Bernard
 * 5-6 : Participation à la fête de la science, présentation du [clinostat](http://www.fablab-lannion.org/2019/10/clinostat.html).
 
 
 ## Novembre - Décembre
+* Prêt gracieux d'un PC pour ENSSAT sans frontières
 * 26 : participation de Thierry à la journée des salariés Orange en mécénat de compétences, présentation du cycle de formation
 * 29 : [atelier des lutins](http://www.fablab-lannion.org/2019/11/les-lutins-reviennent-au-fablab-en-2019.html) du père Noël
 
 * 12 : présentation au conseil départemental de nos propositions de projet (libre en fête et brodeuse numérique). Obtention d'une subvention pour libre en fête 2020
+* 12 : Journée des drones : représentation du Fablab par Bernard
 
 
 ## Enfin ...
