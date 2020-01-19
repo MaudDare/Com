@@ -43,12 +43,14 @@
 
 ## Enfin ...
 ### Sur le Wiki
-* 17 [projets](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Projet) décrits
+* 17 nouveaux [projets](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Projet) décrits
 * Mais où est le Clinostat ?
 
 ### Et je garde le meilleur pour la fin
 * La découpeuse plasma est opérationnelle.
 * Vous pouvez vous lancer dans des projets ‘métal’
+Note:
+91 projets décrits sur le wiki
 
 
 # Remarques ou questions ?

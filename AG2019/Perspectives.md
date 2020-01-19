@@ -2,18 +2,22 @@
 
 
 ## Association
-* Nouveaux locaux !
-* Déjà 28 adhérents ➔ à votre tour 😊
+* Déjà 30 adhérents ➔ à votre tour 😊
 * Nouveau créneau : vendredi matin
-Note: logiciel de caisse / gestion adhésions
+* Nouveaux locaux ?
+Note:
+logiciel de caisse / gestion adhésions
 
 
 ## Machines
 * Atelier tissus
+ * brodeuse, surjeteuse
 Note:
 
 
 ## Projets
+* développement clinostat
+* projet collaboratif : vos propositions ...
 * les **VÔTRES** !
 
 
@@ -26,7 +30,7 @@ Note:
 
 ## Communauté
 * Compagnons numériques (encore 1 an)
-* ne pas continuer avec le Lycée
+* Formations
 
 
 # Remarques ou questions ?

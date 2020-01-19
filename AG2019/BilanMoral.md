@@ -41,7 +41,7 @@ Note: rien
 ## Objectifs 2019 3/4
 ### Projets
 * Spacial : clinostat 😊
-* LoRa 😊
+* LoRa Déploiement de passerelles et support au projet [HIJ](http://www.technopole-anticipa.com/La-solution-HIJ-securise-les-activites-nautiques.html) 😊
 * Bzzz, Macareux 😐
 
 
@@ -77,14 +77,14 @@ Note: rien
 
 
 ## Compagnons numériques
-* ~ 2 sessions déroulées
-* 4+4 jeunes formés
+*  3 sessions terminées
+* 12 jeunes formés
 * reprise d'études pour la moitié !
-* session en cours
+* 4ème session bientôt terminée
 
 
 ## Quelques chiffres
-* 105 Adhérents, en augmentation et renouvellement 😂
+* 107 Adhérents, en augmentation et renouvellement 😂
  * 2 associations / 5 entreprises
  * 83 hommes / 15 femmes
 * 344 Personnes enregistrées sur le forum / 4917 messages
