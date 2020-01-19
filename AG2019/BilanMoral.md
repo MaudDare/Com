@@ -59,7 +59,7 @@ Note: rien
 * Locaux "pleins" 😐
 * Ouverture ~toute l'année à 18h le Mercredi et 12h30-17h30 le Vendredi
  * Étalement de la communauté 😐
- * Diversification des profils et usages du lieu 😊
+ * Élargissement et diversification des profils et usages du lieu 😂
 * Augmentation des interactions avec le territoire 😊
 * Logiciel de caisse / cartes bancaires 😊
 
