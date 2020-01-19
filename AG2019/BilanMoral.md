@@ -41,7 +41,7 @@ Note: rien
 
 ## Objectifs 2019 3/4
 ### Projets
-* Spacial : clinostat 😊
+* Spatial : clinostat 😊
 * LoRa Déploiement de passerelles et support au projet [HIJ](http://www.technopole-anticipa.com/La-solution-HIJ-securise-les-activites-nautiques.html) 😊
 * Bzzz, Macareux 😐
 
