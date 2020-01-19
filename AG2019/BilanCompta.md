@@ -1,96 +1,67 @@
 # Bilan financier
 
-
-## Etat des comptes au 05.01.2019
-- Crédit Mutuel de Bretagne: 15 363,71€
-  - Compte Chèque: 3 128,21 €
-  - Livret CMB:  12 235,50 €
-  - Compte avance prime - subvention: 0 €
-  - Compte Librissime: 0€
+## Etat des comptes au 05.01.2020
+- Crédit Mutuel de Bretagne: 23058,96
+  - Compte Chèque: 2 111,8
+  - Livret CMB: 20947,16
 - Paypal: 106.98 €
-- Caisse: 30 €
+- Caisse: 22,87 €
 
-**TOTAL: 15 500,69 €**
-
+**Total: 23 188,81 €**
 
 ## Evolution des fonds sur 4 ans:
 - 2015: 3 730.97 €
-- 2016: 9 660.03 €  (+158.91 %)
+- 2016: 9 660.03 € (+158.91 %)
 - 2017: 14 261.00 € (+47.62 %)
-- **2018: 15 500,69 € (+08.69 %)**
+- 2018: 15 500,69 € (+08.69 %)
+- 2019: 23 188,81 € (**+7 688,12** / **+49,59%**)
 
+## Non encaissé
+
+- Des factures en cours 605€
+	- Orange: 40€
+	- 1 pro: 170€
+	- 1 adhérent: 195€
+	- OOrobots non encaissés: 200€
+- Pertes de caisse: ???
 
 ## Quelques éléments clefs de la trésorerie 2018
-- Libre en Fête 2018
-- Fin du dossier de subventions d'investissements
+
+- Adhésions: 
+- Libre en Fête 2016 (!!!) - RedHat (1 242€)
 - OORobots
 - Découpes lasers
 
 
-## Libre en Fête 2018
-Événement à l'équilibre d'un chiffre d'affaire de: **9 480€**
 
-**sans bénéfice financier** pour aucun partenaire, mais pour le fablab:
-- utilisation de la découpeuse laser facturée: 280 €
-- achat de 2 antennes LoRa: 1 226€
-- 1 trender: 150 €
+## Investissements 1/2:
 
+Peu de gros investissements hors consommable:
+- Video projecteur (500€)
+- Tablette et terminal CB (280€)
+- Assurance (656€)
+- Logiciel de caisse (120€)
+- Imprimante 3D Prusa (790€)
 
-## Dossier Investissements (1/2)
-Fin du déblocage du looooong dossier d'investissements lancé en 2015.
+## Investissements 2/2:
 
-Montant déblocable:
-- Etat:	5 000.00 € (8.36 %)
-- Région:	23 351.00	€ (39.06 %)
-- CG:	9 340.00 € (15.62 %)
-- Agglo:	8 670.00 € (14.50 %)
-- Propre:	13 420.73	€ (22.45 %)
-
-**Total:	€59 781.73**
-
-
-## Dossier Investissements (2/2)
-**Total débloqué: 53 747.22 (89.9 %)**
-
-Rappel des investissements effectués en 2017:
-- Imprimante résine Form2: 6 715 €
-- Thermoformeuse: 4 567 €
-- Scanner 3D: 3 500 €
-- Découpeuse laser 2: 4 357 €
-- Imprimante A2: 1 270 €
-- Antennes LoRa: 1 200 €
-- Plotter: 2 100 €
-
-
-## OORobots
-- **58** ventes !
-- **94** OOrobots
-- **3 760 €** de vente
-- environ **1 150 €** de bénéfice pour la version MDF
-
-
-## Autre
-- Découpe Laser: **2 400 € (+50 %)**
-- Fondation Orange: 3 000 €
-- Banque: **-463 €**
-  - Frais liés au prêt: 382 €
-  - Domibank: 30 €
-  - CB: 42.20 €
+Total: 5 476€
+- Vie du fablab: 4 133€
+- Projets: 1 769 €
 
 
 ## Bilan
-- Année témoin:
+Seconde année témoin:
   - Mode associatif: Peu de gros mouvements, beaucoup de petits achats
-  - **Bilan positif (+8%)**
-- Les bons plans:
+  - Bilan positif (+7500€ / 50% env)
+Les bons plans:
   - Très bonne performance d'OORobot !
-  - Les découpeuses laser sont clairement de très bon investissements !
+  - Les découpeuses laser sont bientôt rentabilisées.
 
 
 ## Ressenti et perspectives
-- Finalisation du looooong dossier d'investissement douloureux => Merci au CMB, mais pourquoi c'est si compliqué avec tant de frais ???
-- Outil ODOO troooop compliqué lorsqu'il y a beaucoup de mouvements => Proposition de changement d'outil pour 2019.
-- Terminal CB ?
-
+- Année beaucoup plus simple d'un point de vue comptable avec le nouveau logiciel de caisse et le terminal de CB.
+- Le Fablab a assez de ressources pour renouveller une partie de ses machines sans subventions.
+- Une année exceptionnelle ne veut pas dire qu'elle seront toutes identiques.
 
 # Remarques ou questions ?
