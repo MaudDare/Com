@@ -1,5 +1,6 @@
 # Bilan financier
 
+
 ## Etat des comptes au 05.01.2020
 - Crédit Mutuel de Bretagne: 23058,96
   - Compte Chèque: 2 111,8
@@ -9,6 +10,7 @@
 
 **Total: 23 188,81 €**
 
+
 ## Evolution des fonds sur 4 ans:
 - 2015: 3 730.97 €
 - 2016: 9 660.03 € (+158.91 %)
@@ -16,14 +18,16 @@
 - 2018: 15 500,69 € (+08.69 %)
 - 2019: 23 188,81 € (**+7 688,12** / **+49,59%**)
 
+
 ## Non encaissé
 
-- Des factures en cours 605€
+- Des factures en cours 605 €
 	- Orange: 40€
 	- 1 pro: 170€
-	- 1 adhérent: 195€
+	- 1 adhérent: 145€
 	- OOrobots non encaissés: 200€
-- Pertes de caisse: ???
+- Pertes de caisse: -58.28€
+
 
 ## Quelques éléments clefs de la trésorerie 2018
 
@@ -31,7 +35,6 @@
 - Libre en Fête 2016 (!!!) - RedHat (1 242€)
 - OORobots
 - Découpes lasers
-
 
 
 ## Investissements 1/2:
@@ -42,6 +45,7 @@ Peu de gros investissements hors consommable:
 - Assurance (656€)
 - Logiciel de caisse (120€)
 - Imprimante 3D Prusa (790€)
+
 
 ## Investissements 2/2:
 
