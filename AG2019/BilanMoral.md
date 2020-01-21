@@ -68,6 +68,7 @@ Note: adonnantes, pas de relation Lycée/anticipa/enssat/iut
 
 ## Projets / Machines
 * Découpeuse [plasma](http://wiki.fablab-lannion.org//index.php?title=Plasma) terminée
+* Imprimante 3D Prusa
 * Découpeuse*s* Laser ...
 * ...
 
