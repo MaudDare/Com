@@ -37,7 +37,7 @@
 - Découpes lasers
 
 
-## Investissements 1/2:
+## Investissements:
 
 Peu de gros investissements hors consommable:
 - Video projecteur (500€)
@@ -47,12 +47,13 @@ Peu de gros investissements hors consommable:
 - Imprimante 3D Prusa (790€)
 
 
-## Investissements 2/2:
+## Répartition des dépenses:
 
 Total: 5 476€
 - Vie du fablab: 4 133€
 - Projets: 1 769 €
 
+[![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/depenses2019.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/depenses2019.png)
 
 ## Bilan
 Seconde année témoin:
