@@ -1,14 +1,14 @@
 # Bilan financier
 
 
-## Etat des comptes au 05.01.2020
-- Crédit Mutuel de Bretagne: 23058,96
-  - Compte Chèque: 2 111,8
-  - Livret CMB: 20947,16
+## Etat des comptes au 01.01.2020
+- Crédit Mutuel de Bretagne: 22 753,13
+  - Compte Chèque: 1 911,8
+  - Livret CMB: 20841,33
 - Paypal: 106.98 €
 - Caisse: 22,87 €
 
-**Total: 23 188,81 €**
+**Total: 22 882,98 €**
 
 
 ## Evolution des fonds sur 4 ans:
@@ -16,7 +16,7 @@
 - 2016: 9 660.03 € (+158.91 %)
 - 2017: 14 261.00 € (+47.62 %)
 - 2018: 15 500,69 € (+08.69 %)
-- 2019: 23 188,81 € (**+7 688,12** / **+49,59%**)
+- 2019: 22 753,13 € (**+7 382** / **+47,62%**)
 
 
 ## Non encaissé
@@ -29,22 +29,14 @@
 - Pertes de caisse: -58.28€
 
 
-## Quelques éléments clefs de la trésorerie 2018
-
-- Adhésions: 
-- Libre en Fête 2016 (!!!) - RedHat (1 242€)
-- OORobots
-- Découpes lasers
-
-
 ## Investissements:
 
-Peu de gros investissements hors consommable:
+Peu de gros investissements hors consommables:
+- Imprimante 3D Prusa (790€)
+- Assurance (656€)
 - Video projecteur (500€)
 - Tablette et terminal CB (280€)
-- Assurance (656€)
 - Logiciel de caisse (120€)
-- Imprimante 3D Prusa (790€)
 
 
 ## Répartition des dépenses:
@@ -55,18 +47,34 @@ Total: 5 476€
 
 [![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/depenses2019.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/depenses2019.png)
 
+
+## Quelques éléments clefs de la trésorerie 2018
+
+**CA de 10 500€ environ**
+
+Plus gros contributeurs au CA:
+- Découpes lasers: 812 1/4H (env 4000€)
+- Adhésions: 96 (107 sur papier - 2574€)
+- OORobots: 40 (1600€ - 400€ env de marge)
+- Libre en Fête 2016 (!!!) - RedHat (1 242€)
+- Impression 3D: 115 impressions, soit 2,5Kg (env 500€)
+
+
+## Résultat par catégories:
+
+[![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/resulats_par_categories.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/resulats_par_categories.png)
+
+
+## Contribution par catégories à la marge
+
+[![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/contribution_a_la_marge_annuelle.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/contribution_a_la_marge_annuelle.png)
+
+
 ## Bilan
-Seconde année témoin:
-  - Mode associatif: Peu de gros mouvements, beaucoup de petits achats
-  - Bilan positif (+7500€ / 50% env)
-Les bons plans:
-  - Très bonne performance d'OORobot !
-  - Les découpeuses laser sont bientôt rentabilisées.
 
-
-## Ressenti et perspectives
-- Année beaucoup plus simple d'un point de vue comptable avec le nouveau logiciel de caisse et le terminal de CB.
+- La santé en mode associatif se confirme: Peu de gros mouvements, beaucoup de petits achats, et bilan positif (+7300€ / 45% env)
 - Le Fablab a assez de ressources pour renouveller une partie de ses machines sans subventions.
-- Une année exceptionnelle ne veut pas dire qu'elle seront toutes identiques.
+- Une très bonne année ne veut pas dire qu'elles seront toutes identiques.
+
 
 # Remarques ou questions ?
