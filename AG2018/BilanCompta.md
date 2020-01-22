@@ -2,22 +2,22 @@
 
 
 ## Etat des comptes au 05.01.2019
-- Crédit Mutuel de Bretagne: 15 363,71€
-  - Compte Chèque: 3 128,21 €
+- Crédit Mutuel de Bretagne: 15 463,71€
+  - Compte Chèque: 3 228,21 €
   - Livret CMB:  12 235,50 €
   - Compte avance prime - subvention: 0 €
   - Compte Librissime: 0€
 - Paypal: 106.98 €
 - Caisse: 30 €
 
-**TOTAL: 15 500,69 €**
+**TOTAL: 15 600,69 €**
 
 
 ## Evolution des fonds sur 4 ans:
 - 2015: 3 730.97 €
 - 2016: 9 660.03 €  (+158.91 %)
 - 2017: 14 261.00 € (+47.62 %)
-- **2018: 15 500,69 € (+08.69 %)**
+- **2018: 15 600,69 € (+08.69 %)**
 
 
 ## Quelques éléments clefs de la trésorerie 2018
