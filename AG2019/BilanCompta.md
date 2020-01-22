@@ -75,6 +75,6 @@ Plus gros contributeurs au CA:
 - La santé en mode associatif se confirme: Peu de gros mouvements, beaucoup de petits achats, et bilan positif (+7300€ / 45% env)
 - Le Fablab a assez de ressources pour renouveller une partie de ses machines sans subvention, ou envisager un apport important pour un gros investissement.
 - Une très bonne année ne veut pas dire qu'elles seront toutes identiques.
-
+- Un système de caisse + CB qui simplifie la trésorerie :)
 
 # Remarques ou questions ?
