@@ -75,7 +75,7 @@ Note: adonnantes, pas de relation Lycée/anticipa/enssat/iut
 
 ## OoRobot
 * Toujours gros succès.
-* ~75 kits fabriqués
+* 40 kits vendus
 
 [![OOrobot](https://wiki.fablab-lannion.org/images/thumb/6/63/Oorobot-logo.png/400px-Oorobot-logo.png)](https://wiki.fablab-lannion.org/images/thumb/6/63/Oorobot-logo.png/400px-Oorobot-logo.png)
 
@@ -92,7 +92,7 @@ Note: adonnantes, pas de relation Lycée/anticipa/enssat/iut
  * 2 associations / 5 entreprises
  * 83 hommes / 15 femmes
 * 344 Personnes enregistrées sur le forum / 4917 messages
-* xxx Heures de découpeuse Laser facturées
+* 203 Heures de découpeuse Laser facturées
 Note: sur du nombre d'adhérents :)
 14.3% de femmes ! merci le vendredi et CPN22
 120h laser en 2018
