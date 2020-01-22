@@ -41,9 +41,9 @@ Peu de gros investissements hors consommables:
 
 ## Répartition des dépenses:
 
-Total: 5 476€
-- Vie du fablab: 4 133€
-- Projets: 1 769 €
+Total: 5 900€
+- Vie du fablab: 4 100€
+- Projets: 1 800 €
 
 [![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/depenses2019.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/depenses2019.png)
 
@@ -55,7 +55,7 @@ Total: 5 476€
 Plus gros contributeurs au CA:
 - Découpes lasers: 812 1/4H (env 4000€)
 - Adhésions: 96 (107 sur papier - 2574€)
-- OORobots: 40 (1600€ - 400€ env de marge)
+- OORobots: 40 (1840€ - 640€ env de marge)
 - Libre en Fête 2016 (!!!) - RedHat (1 242€)
 - Impression 3D: 115 impressions, soit 2,5Kg (env 500€)
 
@@ -65,7 +65,7 @@ Plus gros contributeurs au CA:
 [![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/resulats_par_categories.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/resulats_par_categories.png)
 
 
-## Contribution par catégories à la marge
+## Contribution à la marge par catégories
 
 [![Depenses](https://github.com/FablabLannion/Com/raw/master/AG2019/img/contribution_a_la_marge_annuelle.png)](https://github.com/FablabLannion/Com/raw/master/AG2019/img/contribution_a_la_marge_annuelle.png)
 
@@ -73,7 +73,7 @@ Plus gros contributeurs au CA:
 ## Bilan
 
 - La santé en mode associatif se confirme: Peu de gros mouvements, beaucoup de petits achats, et bilan positif (+7300€ / 45% env)
-- Le Fablab a assez de ressources pour renouveller une partie de ses machines sans subventions.
+- Le Fablab a assez de ressources pour renouveller une partie de ses machines sans subvention, ou envisager un apport important pour un gros investissement.
 - Une très bonne année ne veut pas dire qu'elles seront toutes identiques.
 
 
