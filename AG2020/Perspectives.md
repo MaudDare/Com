@@ -14,8 +14,9 @@ ____
 
 ## Machines
 
-- Atelier tissus à compléter
-- Détecteur de CO2 à continuer
+- Atelier tissus à compléter (brodeuse en particulier - subv CD22)
+- Détecteur de particules à continuer
+- 2 antennes LoRa en plus pour Bégard et Caouennec
 
 ____
 
@@ -29,13 +30,15 @@ Si possible:
 - Forum des associations
 - Crémaillère
 - Portes ouvertes
+- Atelier qualité de l'air avec Infothéma - Bégard, Caouennec, Lannion
 
 ____
 
 ## Communauté
 
-- Liens avec FJT ?
-- Liens avec ENSSAT ?
+- Liens à monter suite au déménagement:
+  - avec FJT ?
+  - avec ENSSAT ?
 - Projet Maison de l'emploi ?
 
 ____

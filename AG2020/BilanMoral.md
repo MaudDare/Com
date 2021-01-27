@@ -50,7 +50,7 @@ ____
 
 - [Libre en Fête 2020](http://libre-en-fete-tregor.fr/) ➔ 29 mars 🥺
 - Fête de la science 😊
-- Forum des associations 🥺
+- Forum des associations 😊
 - Portes ouvertes 🥺
 
 ____
@@ -60,7 +60,7 @@ ____
 ## Communauté
 
 - Compagnons numériques 😊
-- Formations 😊 (Effectués et prévus - A COMPLETER)
+- Formations 😊
 - Projet Maison de l'emploi ? 😐
 
 ____
@@ -79,7 +79,7 @@ ____
 - Locaux "pleins" 😐 jusqu'à mars
 - Ouverture à 18h le Mercredi et 9h30-17h30 le Vendredi en fonction des
   possibilités
-- Élargissement et diversification des profils et usages du lieu 😂
+- Élargissement et diversification des profils et usages du lieu 😊
 - Augmentation des interactions avec le territoire 😊
 - Newsletter depuis septembre.
 
@@ -95,7 +95,7 @@ ____
 
 ## Compagnons numériques
 
-- 1 sessions de formation débutée avec 4 jeunes, 3 ont repris après le 1er confinement. Ils sont allés ensuite jusqu'au bout malgré le contexte.
+- 1 session de formation débutée avec 4 jeunes, 3 ont repris après le 1er confinement. Ils sont allés ensuite jusqu'au bout malgré le contexte.
 - Session de Septembre annulée.
 - Difficulté pour trouver des jeunes par la mission locale.
 
@@ -146,7 +146,9 @@ ____
 ![](img/poignee.jpeg)
 ____
 
+
 # Déménagement
+
 ____
 
 
@@ -174,11 +176,11 @@ ____
 
 ## Déménagement 3/3
 - 2ème possibilitée:
-  - Mairie + Foyer de jeunes travailleurs
-    - Près de 170 m2 en plein centre
-    - Aménagement à l'étude par la mairie
-    - Loyer de 450€/mois auprès du FJT
-    - Dossier à compléter avec la mairie.
+    - Mairie + Foyer de jeunes travailleurs
+        - Près de 170 m2 en plein centre
+        - Aménagement à l'étude par la mairie
+        - Loyer de 450€/mois auprès du FJT
+        - Dossier à compléter avec la mairie.
 
 ____
 
@@ -187,4 +189,13 @@ ____
 
 
 ![](img/plan_fjt2.png)
+____
 
+
+![](img/fjt.jpg)
+____
+
+![](img/fjt2.jpg)
+____
+
+![](img/fjt3.jpg)
